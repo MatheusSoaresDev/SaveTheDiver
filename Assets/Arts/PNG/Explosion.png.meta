@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 2c02242647cb65e478ff002f58d5914c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Explosion_10
+    21300002: Explosion_0
+    21300004: Explosion_1
+    21300006: Explosion_2
+    21300008: Explosion_3
+    21300010: Explosion_4
+    21300012: Explosion_5
+    21300014: Explosion_6
+    21300016: Explosion_7
+    21300018: Explosion_8
+    21300020: Explosion_9
+    21300022: Explosion_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 755
+        width: 229
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 755
+        width: 229
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 755
+        width: 229
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 503
+        width: 229
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 496
+        width: 229
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 497
+        width: 229
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 261
+        width: 229
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 242
+        width: 270
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 241
+        width: 270
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 270
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1
+        width: 270
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
